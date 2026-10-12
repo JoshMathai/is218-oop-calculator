@@ -21,7 +21,7 @@ add 5.0 3.0 = 8.0
 calc> exit
 
 ## Successful GitHub Actions run
-[PASTE YOUR GREEN RUN URL HERE]
+[(https://github.com/JoshMathai/is218-oop-calculator/actions/runs/38279003849)]
 
 ## Coverage exclusions
 - `Calculation.execute()` has `# pragma: no cover` because it is only an abstract placeholder with no behavior.
